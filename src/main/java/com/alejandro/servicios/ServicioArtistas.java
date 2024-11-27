@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 
 import com.alejandro.modelos.Artista;
 import com.alejandro.repositorios.RepositorioArtistass;
-import com.nicolasgarcia.repositorios.RepositorioArtistas;
+
 
 @Service
 public class ServicioArtistas {
